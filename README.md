@@ -48,4 +48,5 @@ The following 9×9 sudoku is a valid one:
 1 7 4 9 8 5 6 2 3 
 
 2 3 5 4 1 6 8 9 7 
+
 The program reads from the user the name of an input text file containing a sudoku, reads the input from the file and prints the sudoku on the screen. It determines whether the sudoku is a valid one or not and prints the outcome on the screen.
