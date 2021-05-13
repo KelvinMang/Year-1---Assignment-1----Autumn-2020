@@ -31,13 +31,21 @@ The sudoku above is clearly not a valid one.
 
 The following 9×9 sudoku is a valid one:
 
-8 4 2 5 7 1 9 3 6 "\n"
-3 5 1 8 6 9 7 4 2 "\n"
-7 6 9 2 4 3 1 8 5 "\n"
-5 9 7 6 2 8 3 1 4 "\n"
-6 2 3 1 9 4 5 7 8 "\n"
-4 1 8 3 5 7 2 6 9 "\n"
-9 8 6 7 3 2 4 5 1 "\n"
-1 7 4 9 8 5 6 2 3 "\n"
-2 3 5 4 1 6 8 9 7 "\n
+8 4 2 5 7 1 9 3 6 
+
+3 5 1 8 6 9 7 4 2 
+
+7 6 9 2 4 3 1 8 5 
+
+5 9 7 6 2 8 3 1 4 
+
+6 2 3 1 9 4 5 7 8 
+
+4 1 8 3 5 7 2 6 9 
+
+9 8 6 7 3 2 4 5 1 
+
+1 7 4 9 8 5 6 2 3 
+
+2 3 5 4 1 6 8 9 7 
 The program reads from the user the name of an input text file containing a sudoku, reads the input from the file and prints the sudoku on the screen. It determines whether the sudoku is a valid one or not and prints the outcome on the screen.
